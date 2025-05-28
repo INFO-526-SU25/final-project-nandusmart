@@ -33,6 +33,10 @@ library(tidyverse)
 
 A brief description of your dataset including its provenance, dimensions, etc. as well as the reason why you chose this dataset.
 
+--> Choosing the Dataset -- https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-01-21/exped_tidy.csv
+
+As it has wide variety of Numerical & Categorical Variables and depth of information.
+
 Make sure to load the data and use inline code for some of this information.
 
 ## Questions
