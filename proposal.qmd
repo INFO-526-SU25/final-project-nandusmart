@@ -33,7 +33,7 @@ library(tidyverse)
 
 A brief description of your dataset including its provenance, dimensions, etc. as well as the reason why you chose this dataset.
 
---> Choosing the Dataset -- https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-01-21/exped_tidy.csv
+--\> Choosing the Dataset -- https://github.com/rfordatascience/tidytuesday/blob/main/data/2025/2025-01-21/exped_tidy.csv
 
 As it has wide variety of Numerical & Categorical Variables and depth of information.
 
@@ -46,3 +46,7 @@ The two questions you want to answer.
 ## Analysis plan
 
 -   A plan for answering each of the questions including the variables involved, variables to be created (if any), external data to be merged in (if any).
+
+TaskName	            Status	  Due	      Priority	  Summary
+Finalizing Dataset    Done      May 19    Hign        Chosen Expedition Dataset
+
